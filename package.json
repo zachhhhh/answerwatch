@@ -1,0 +1,1 @@
+{"name":"answerwatch","version":"0.1.0","type":"module","description":"Open monitoring of what AI models refuse, omit or distort.","scripts":{"run":"node cli.js run","report":"node cli.js report"},"engines":{"node":">=20"},"license":"MIT"}
